@@ -1,0 +1,16 @@
+com\example\weatherAndTicketmaster\models\weather\OpenweatherResponseNew.class
+com\example\weatherAndTicketmaster\models\weather\MyWeatherResponse.class
+com\example\weatherAndTicketmaster\models\activity\ActivityEmbedded.class
+com\example\weatherAndTicketmaster\models\activity\MyActivityResponse.class
+com\example\weatherAndTicketmaster\controller\WeatherController.class
+com\example\weatherAndTicketmaster\services\OpenWeatherAPIService.class
+com\example\weatherAndTicketmaster\controller\WeatherActivityController.class
+com\example\weatherAndTicketmaster\models\weatheractivity\weatheractivityResponse.class
+com\example\weatherAndTicketmaster\WeatherAndTicketmasterApplication.class
+com\example\weatherAndTicketmaster\models\weather\OpenWeatherResponseMain.class
+com\example\weatherAndTicketmaster\services\TicketMasterAPIService.class
+com\example\weatherAndTicketmaster\models\activity\ActivityDescription.class
+com\example\weatherAndTicketmaster\models\activity\ActivityNew.class
+com\example\weatherAndTicketmaster\models\activity\ActivityEvents.class
+com\example\weatherAndTicketmaster\models\weather\OpenweatherResponseWind.class
+com\example\weatherAndTicketmaster\controller\ActivityController.class
